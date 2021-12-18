@@ -10,4 +10,4 @@ jobs:
   update-todo:
     runs-on: ubuntu-20.04
     steps:
-      - uses: ikanago/issue-deadline-manager@v0.3.0
+      - uses: ikanago/issue-deadline-manager@v1
